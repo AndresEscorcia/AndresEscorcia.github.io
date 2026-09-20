@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Automatización de preparación de equipos TI | Harrison Escorcia</title>
+<link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+<main class="section">
+<div class="container">
+<p class="eyebrow">PROYECTO 01 · CASO REAL · POWERSHELL</p>
+<h1>Automatización de preparación de equipos TI.</h1>
+<p class="hero-copy">Desarrollé un script de PowerShell para automatizar tareas de preparación y estandarización de equipos Windows en un contexto asociado a Agropaisa, Agromilenio y Ducol.</p>
+<div class="actions">
+<a class="btn primary" href="https://github.com/AndresEscorcia/TicsAGP/blob/main/T1Tics.ps1" target="_blank" rel="noopener">Ver código en GitHub ↗</a>
+<a class="btn secondary" href="../index.html#proyectos">← Volver al portfolio</a>
+</div>
+
+<h2>Qué resolví</h2>
+<div class="prose">
+<p>Centralicé tareas que normalmente tendrían que ejecutarse manualmente durante la preparación de equipos: comprobación e instalación de Chocolatey, validación de conectividad, instalación o actualización de aplicaciones y configuración de parámetros de Windows.</p>
+<p>El archivo público analizado contiene 344 líneas, de acuerdo con la revisión del repositorio.</p>
+</div>
+
+
+<h2>Automatización implementada</h2>
+<div class="skills-grid">
+<div class="skill"><h3>Gestión de paquetes</h3><p>Integré Chocolatey para instalar y actualizar una lista de aplicaciones.</p></div>
+<div class="skill"><h3>Comprobación de conectividad</h3><p>Incluí comprobaciones de conectividad antes de ejecutar determinadas tareas.</p></div>
+<div class="skill"><h3>Progreso y errores</h3><p>Implementé seguimiento del progreso y registro de programas que presentan errores durante la instalación.</p></div>
+<div class="skill"><h3>Gestión de programas</h3><p>Incorporé opciones para consultar, agregar y eliminar elementos de la lista de programas.</p></div>
+</div>
+
+
+<h2>Configuración de Windows</h2>
+<div class="prose">
+<p>El script permite seleccionar un fondo asociado a Agropaisa, Agromilenio o Ducol y configurar parámetros relacionados con el wallpaper.</p>
+<p>También contempla cambio de nombre del equipo, zona horaria de Colombia, sincronización con <code>time.windows.com</code>, desactivación del hotspot móvil y ajustes sobre servicios de gaming.</p>
+</div>
+
+<h2>Arquitectura funcional</h2>
+<div class="code-card">
+<pre><code>Usuario
+   │
+   ▼
+Menú PowerShell
+   │
+   ├── Verificar Internet
+   │
+   ├── Verificar / instalar Chocolatey
+   │
+   ├── Instalar / actualizar software
+   │
+   ├── Verificar estado
+   │
+   ├── Gestionar lista de programas
+   │
+   └── Configurar Windows
+           ├── Wallpaper
+           ├── Nombre del equipo
+           ├── Zona horaria / NTP
+           ├── Hotspot
+           └── Gaming services</code></pre>
+</div>
+
+<h2>Qué demuestra este proyecto</h2>
+<div class="prose">
+<p><strong>Creación de scripts en PowerShell:</strong> trabajé con funciones, parámetros, ciclos, condiciones, manejo de errores y un menú interactivo.</p>
+<p><strong>Automatizacion de TI:</strong> convertí tareas repetitivas en una rutina más reproducible.</p>
+<p><strong>Administracion de Windows:</strong> automatizé cambios sobre propiedades y configuración del sistema mediante PowerShell.</p>
+<p><strong>Gestión de paquetes:</strong> integré Chocolatey para facilitar la instalación y actualización de software.</p>
+</div>
+
+
+<div class="actions">
+<a class="btn primary" href="https://github.com/AndresEscorcia/Automatizacion-de-preparacion-y-estandarizacion-de-equipos-Windows" target="_blank" rel="noopener">Repositorio TicsAGP ↗</a>
+<a class="btn secondary" href="../index.html#proyectos">← Volver al portfolio</a>
+</div>
+</div>
+</main>
+</body>
+</html>
