@@ -1,113 +1,73 @@
-## Portfolio — Harrison Andres Escorcia Palacio
+## Harrison Escorcia · Portfolio
 
 <p align="center">
   <strong>Ingeniero de Software · Infraestructura TI · Ciberseguridad · Automatización</strong>
 </p>
 
 <p align="center">
-  Portfolio profesional para presentar mi trayectoria, experiencia, proyectos y áreas de enfoque tecnológico.
+  Portfolio profesional para presentar mi trayectoria, experiencia y proyectos tecnológicos.
 </p>
 
 <p align="center">
-  <a href="https://andresescorcia.github.io/">🌐 Portfolio</a> ·
-  <a href="https://github.com/AndresEscorcia">GitHub</a> ·
+  <a href="https://andresescorcia.github.io/"><strong>🌐 Ver Portfolio</strong></a>
+  ·
+  <a href="https://github.com/HarrisonEscorcia">GitHub</a>
+  ·
   <a href="mailto:escorciaandres@hotmail.com">Email</a>
 </p>
 
-## 🧭 Sobre el proyecto
-
-Este repositorio contiene el código fuente de mi portfolio profesional, desarrollado como un sitio web estático y desplegado mediante GitHub Pages.
-
-El objetivo es presentar de forma clara mi perfil profesional, experiencia laboral, proyectos técnicos, conocimientos y formas de contacto.
-
-El proyecto está pensado para evolucionar con nueva documentación, proyectos y mejoras técnicas.
-
 ## 🎯 Enfoque
 
-const harrison = {
+Mi trabajo se encuentra en la intersección entre:
 
-  enfoque: [
-    "Infraestructura TI",
-    "Desarrollo de Software",
-    "Ciberseguridad",
-    "Automatización"
-  ],
+Área
 
-  mentalidad: "resolver + proteger",
+Enfoque
 
-  ubicación: "Colombia"
+🖥️ Infraestructura TI
 
-};
+Sistemas, soporte, redes e implementación
 
-## 🛠️ Tecnologías
+💻 Software
 
-Tecnología
+Desarrollo y construcción de soluciones
 
-Uso
+🔐 Ciberseguridad
 
-HTML5
+Protección y seguridad por diseño
 
-Estructura y contenido
+⚙️ Automatización
 
-CSS3
+Optimización de procesos y flujos
 
-Diseño visual y responsive
+Mentalidad: resolver + proteger
 
-JavaScript
+📍 Colombia
 
-Interactividad
+## 🛠️ Stack del proyecto
 
-Git
+Frontend        HTML · CSS · JavaScript
+Versionado     Git · GitHub
+Despliegue     GitHub Pages
 
-Control de versiones
 
-GitHub
+## 🚀 Deploy
 
-Repositorio y gestión
+Producción
 
-GitHub Pages
+🌐 [andresescorcia.github.io/](https://andresescorcia.github.io/)
 
-Despliegue
+Desplegado mediante GitHub Pages desde la rama main.
 
-## 📂 Estructura
-
-portfolio_harrison_escorcia/
-│
-├── index.html
-├── styles.css
-├── script.js
-│
-├── projects/
-│   ├── app-docker-node.html
-│   ├── implementacion-ti.html
-│   ├── inventario.html
-│   ├── iso-27001.html
-│   ├── monitoreo-redes.html
-│   ├── pos-siesa.html
-│   └── tics-app.html
-│
-├── assets/
-│
-├── README.md
-├── PRIVACIDAD.md
-├── CONTENIDO.md
-└── LICENCIA.md
-
-## 🚀 Despliegue
-
-El sitio está publicado mediante GitHub Pages:
-
-https://andresescorcia.github.io/
-
-Las actualizaciones se gestionan mediante Git:
+Actualizar el proyecto
 
 git add .
 git commit -m "Descripción del cambio"
 git push origin main
 
-## 📌 Contenido
+## 📌 ¿Qué encontrarás?
 
-El portfolio reúne experiencias y proyectos relacionados con:
+El portfolio documenta mis experiencias y proyectos relacionados con:
 
 Infraestructura y soporte TI.
 
@@ -125,79 +85,52 @@ Administración de sistemas.
 
 Soporte a usuarios.
 
-Soluciones orientadas a necesidades reales de negocio.
+Cada proyecto cuenta con su propia página para separar contexto, experiencia y documentación técnica.
 
-## 🤖 Automatización y WhatsApp
+## 🤖 Caso destacado
 
-Uno de los casos documentados corresponde a una experiencia de automatización para marketing y atención al cliente.
+WhatsApp · Sagicc · Automatización
 
-Durante mi experiencia con Agropaisa, Agromilenio y Ducol, participé en el desarrollo y configuración de un bot para WhatsApp utilizando Sagicc, estructurando flujos conversacionales y automatizando interacciones con usuarios.
+Durante mi experiencia con Agropaisa, Agromilenio y Ducol, participé en el desarrollo y configuración de un bot para WhatsApp orientado a procesos de marketing y atención al cliente.
 
 WhatsApp
-   ↓
-Sagicc
-   ↓
+    ↓
+  Sagicc
+    ↓
 Flujos conversacionales
-   ↓
+    ↓
 Automatización
-   ↓
-Marketing + Atención al cliente
+    ↓
+Marketing + Atención
+
+El proyecto integra automatización y comunicación digital para apoyar la interacción inicial con los usuarios.
 
 ## 🔐 Filosofía técnica
 
 Resolver problemas tecnológicos sin descuidar la seguridad.
 
-Mi enfoque combina:
-
 Infraestructura
       +
-Software
+   Software
       +
 Automatización
       +
-Seguridad
+  Seguridad
       ↓
 Soluciones tecnológicas
 
-## 📈 Evolución
+## 👤 Harrison Escorcia
 
-Este es un proyecto vivo. Entre las futuras mejoras pueden estar:
+Ingeniero de Software
 
-Nuevos proyectos profesionales.
+Orientado a infraestructura y soporte TI, con experiencia en implementación tecnológica, desarrollo de software, automatización y seguridad.
 
-Casos de estudio.
-
-Documentación técnica.
-
-Demostraciones de proyectos.
-
-Mejoras de accesibilidad.
-
-Optimización SEO.
-
-Nuevos componentes e interacciones.
-
-Integración con nuevas tecnologías.
-
-## 👤 Sobre mí
-
-Harrison Andres Escorcia Palacio
-
-Ingeniero de Software orientado a infraestructura y soporte TI, con experiencia en diferentes entornos empresariales y enfoque en desarrollo de soluciones tecnológicas, automatización y seguridad.
-
-Mi interés profesional se encuentra en la intersección entre:
-
-infraestructura + software + seguridad + automatización.
+Infraestructura + Software + Seguridad + Automatización
 
 ## 🔗 Contacto
 
-<p align="center">
-  <a href="https://andresescorcia.github.io/">Portfolio</a> ·
-  <a href="https://www.instagram.com/im_andresco/">Instagram</a> ·
-  <a href="https://www.facebook.com/EscorciaPalacio15">Facebook</a> ·
-  <a href="mailto:escorciaandres@hotmail.com">Email</a>
-</p>
+<p align="center"> <a href="https://andresescorcia.github.io/"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"> </a> <a href="https://www.instagram.com/im_andresco/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a> <a href="https://www.facebook.com/EscorciaPalacio15"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"> </a> <a href="mailto:escorciaandres@hotmail.com"> <img src="https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"> </a> </p>
 
 <p align="center">
-  <sub>Construido y mantenido por Harrison Escorcia · Colombia</sub>
+  <sub>Construido y mantenido por Harrison Andres Escorcia Palacio · 📍 Bucaramanga Colombia</sub>
 </p>
