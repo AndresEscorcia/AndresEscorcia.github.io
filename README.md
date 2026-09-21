@@ -1,4 +1,4 @@
-## Harrison Escorcia · Portfolio
+## Harrison Andres Escorcia Palacio · Portfolio
 
 <p align="center">
   <strong>Ingeniero de Software · Infraestructura TI · Ciberseguridad · Automatización</strong>
@@ -20,10 +20,6 @@
 
 Mi trabajo se encuentra en la intersección entre:
 
-Área
-
-Enfoque
-
 🖥️ Infraestructura TI
 
 Sistemas, soporte, redes e implementación
@@ -42,13 +38,11 @@ Optimización de procesos y flujos
 
 Mentalidad: resolver + proteger
 
-📍 Colombia
 
 ## 🛠️ Stack del proyecto
-
-Frontend        HTML · CSS · JavaScript
-Versionado     Git · GitHub
-Despliegue     GitHub Pages
+**Frontend:** HTML + CSS + JavaScript
+**Versionado:** Git + GitHub
+**Despliegue:** GitHub Pages
 
 
 ## 🚀 Deploy
